@@ -1,4 +1,4 @@
-# data-security-with-ai
+# Data security with AI
 Threat Detection in Data Security Using AI
 Introduction
 In today's digital age, data security has become a critical concern for organizations worldwide. With the exponential growth of internet usage and digital transactions, cyber threats have evolved to become more sophisticated and frequent. Traditional security measures, while important, often struggle to keep pace with the rapidly changing threat landscape.
